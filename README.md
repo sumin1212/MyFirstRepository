@@ -1,12 +1,7 @@
-# MyFirstRepository
-## 중간제목
-  [sumin](https://github.com/sumin1212)
-### 작은제목
+# 19173063 김수민
 
-  1. 첫번째
-  2. 두번째
-  3. 세번째
+## 1주차 과제
 
-Heool my name is HanGyeol
+## 2주차 과제
 
-<img width="" height="" src="./png/common.jpg">
+## 3주차 과제
